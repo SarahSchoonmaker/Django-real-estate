@@ -6,4 +6,4 @@ Django
 postgreSQL
 Heroku
 
-Demo: https://realestatedjango.herokuapp.com/
+Demo: https://djangorealestateapp.herokuapp.com/
