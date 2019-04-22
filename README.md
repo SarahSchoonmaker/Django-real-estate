@@ -7,4 +7,6 @@ postgreSQL
 Heroku
 
 Demo: https://djangorealestateapp.herokuapp.com/
-Working on getting the uploaded listing images to persist in the postgreSQL database on Heroku. 
+To do: Use S3 with Heroku to have uploaded images for listings to persist in the postgreSQL database with Heroku. 
+
+![Imgur](https://i.imgur.com/sTwzdcj.png) 
