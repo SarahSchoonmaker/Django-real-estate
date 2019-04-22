@@ -149,4 +149,6 @@ except ImportError:
     pass
 
 django_heroku.settings(locals())
-DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+DATABASES['btre'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+DATABASES['btre'] = dj_database_url.config(default='postgres://...')
+DATABASES['btre'] = dj_database_url.parse('postgres://...', conn_max_age=600)
