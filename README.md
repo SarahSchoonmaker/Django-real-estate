@@ -1,9 +1,9 @@
 This real estate company website features realtors and their listings. 
 
 Tools:
-Python
-Django
-postgreSQL
+Python,
+Django,
+postgreSQL,
 Heroku
 
 Features:
