@@ -11,8 +11,6 @@ Admin can create, edit, delete realtors, listings, and assign realtors to listin
 
 Demo: https://djangorealestateapp.herokuapp.com/ 
 
-To do: Use S3 with Heroku to have uploaded images for listings to persist in the postgreSQL database with Heroku. 
-
 ![Imgur](https://i.imgur.com/sTwzdcj.png) 
 
 To Run Locally:
