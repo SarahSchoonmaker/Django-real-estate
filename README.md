@@ -7,7 +7,7 @@ postgreSQL,
 Heroku
 
 Features:
-Admin can create, edit, delete realtors, listings, and assign realtors to listings. Admin can also identify a super star sales person of the month and feature them at the top of the About page. 
+Mobile responsive, Admin can create, edit, delete realtors, listings, and assign realtors to listings. Admin can also identify a super star sales person of the month and feature them at the top of the About page. 
 
 
 ![Imgur](https://i.imgur.com/sTwzdcj.png) 
