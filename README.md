@@ -3,8 +3,7 @@ This real estate company website features realtors and their listings.
 Tools:
 Python,
 Django,
-postgreSQL,
-Heroku
+postgreSQL
 
 Features:
 Mobile responsive, Admin can create, edit, delete realtors, listings, and assign realtors to listings. Admin can also identify a super star sales person of the month and feature them at the top of the About page. 
